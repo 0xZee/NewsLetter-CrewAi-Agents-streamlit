@@ -1,8 +1,6 @@
-# NewsLetter-CrewAi-Agents-streamlit
-
-# 📝 `Weekly News Letter` Crew AI Agents - Streamlit App 🖋️
-## 🖋️ NewsLetter Writer Crew AI Agents to Get `Last Weekly News` based on a specific `Topic`.
-## 🤖 Pick your LLM : META's `llama3`, MISTRAL's `Mixtral`, GOOGLE's `Gemma` and `Gemma2` 
+# 📝 `Weekly News Letter` Crew AI Agents 🖋️
+### 🖋️ Streamlit App : NewsLetter Writer Crew AI Agents to Get `Last Weekly News` based on a specific `Topic`.
+### 🤖 Pick your LLM : META's `llama3`, MISTRAL's `Mixtral`, GOOGLE's `Gemma` and `Gemma2` 
 
 ## 📝 Streamlit Ai Crew :
 
