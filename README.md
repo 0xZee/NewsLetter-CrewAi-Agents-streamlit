@@ -2,6 +2,11 @@
 ### 🖋️ Streamlit App : NewsLetter Writer Crew AI Agents to Get `Last Weekly News` based on a specific `Topic`.
 ### 🤖 Pick your LLM : META's `llama3`, MISTRAL's `Mixtral`, GOOGLE's `Gemma` and `Gemma2` 
 
+## NEWS LETTER : DuckDuckGo Search & CREW AI
+- News Letter Writer assitant to help generate a LLM powered update Weekly News based on your topic.
+
+![CrewAi App WorkFlow](news_screen.JPG)
+
 ## 📝 Streamlit Ai Crew :
 
 - `CrewAi` : Framework for Agents, Tasks and Tools (2x2 Agents/Tasks)
@@ -9,12 +14,6 @@
 - `DuckSearchTools` : Get the last week informations from DuckDuckGo Search Class
 - `Groq API` : for Inference
 - `Available LLM` : META's `llama3`, MISTRAL's `Mixtral`, GOOGLE's `Gemma` and `Gemma2`.
-
-
-## NEWS LETTER : DuckDuckGo Search & CREW AI
-- News Letter Writer assitant to help generate a LLM powered update Weekly News based on your topic.
-
-![CrewAi App WorkFlow](news_screen.JPG)
 
 ## CREW AI AGENT :
 - An advanced research assistant by leveraging LangChain-powered tools into a CrewAI-powered multi-agent setup.
